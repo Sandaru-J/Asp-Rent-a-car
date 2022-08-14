@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Rent_a_Car.Views.Client
+namespace Rent_a_Car.Views
 {
-    public partial class Site : System.Web.UI.MasterPage
+    public partial class Site1 : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {

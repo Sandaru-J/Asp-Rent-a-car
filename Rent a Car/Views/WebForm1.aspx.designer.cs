@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Rent_a_Car.Views.Client
+namespace Rent_a_Car.Views
 {
 
 
-    public partial class Home
+    public partial class WebForm1
     {
     }
 }
