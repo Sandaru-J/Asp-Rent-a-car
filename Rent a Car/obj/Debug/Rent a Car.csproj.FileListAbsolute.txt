@@ -84,3 +84,6 @@ C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\obj\Debug\
 C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\obj\Debug\Rent a Car.csproj.CopyComplete
 C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\obj\Debug\Rent a Car.dll
 C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\obj\Debug\Rent a Car.pdb
+C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\bin\Views\Site1.Master
+C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\bin\Views\Site1.Master.cs
+C:\Users\Sandaru\Desktop\I miei progetti\C#\Asp-Rent-a-car\Rent a Car\bin\Views\Site1.Master.designer.cs
