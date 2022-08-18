@@ -9,11 +9,19 @@
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            font-size: 12pt;
+            vertical-align: middle;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../Guest/Home.aspx">Clinic</a>
+            <span class="auto-style1">Rent a Car</span>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupporttrdContent">
                 <span class="navbar-toggler-icon"></span>
             </button>

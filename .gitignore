@@ -3,3 +3,6 @@
 *.dll
 *.pdb
 Rent a Car/.vs/Rent a Car/v17/.suo
+*.cache
+*.dll
+*.pdb
