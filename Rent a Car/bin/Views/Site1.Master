@@ -5,6 +5,8 @@
 <html>
 <head runat="server">
     <title></title>
+     <link rel="stylesheet" href="../LIbs/Boostrap/css/bootstrap.min.css"/> 
+
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
