@@ -1,3 +1,8 @@
 ﻿.carousel-inner {
     height: 500px;
 }
+
+#card-padding{
+    padding-left: 50px;
+    padding-right: 50px;
+}
