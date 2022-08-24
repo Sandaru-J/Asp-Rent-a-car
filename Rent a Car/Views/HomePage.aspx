@@ -151,21 +151,22 @@
         <!--5th ROW-->
 
     <br />
-    <div class="row" id="card-padding">
-  <div class="col-6">
-    <div class="card">
+    <div class="row" >
+  <div class="col-6" id="col_6_padding">
+    <div class="card" id="special_vehicle_card">
       <div class="card-body">
         <h5 class="card-title">Special Vehicles</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-         
+          <br /><br /><br /><br /><br />
+         <button type="button" class="btn btn-outline-light" id="btn_moreDetails">MORE DETAILS</button>
       </div>
     </div>
   </div>
   <div class="col-6">
  
     <div class="row">
-  <div class="col-6">
-   <div class="card bg-dark text-white">
+  <div class="col-6" id="col_6_padding">
+   <div class="card bg-dark text-white" id="hoverimg">
   <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
     <h5 class="card-title">Card title</h5>
@@ -174,8 +175,59 @@
   </div>
 </div>
   </div>
-  <div class="col-6">
-    <div class="card bg-dark text-white">
+  <div class="col-6" id="col_6_padding">
+    <div class="card bg-dark text-white" id="hoverimg">
+  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+
+    <!---->
+
+
+  
+
+ 
+    <div class="row">
+  <div class="col-3" id="col_6_padding">
+   <div class="card bg-dark text-white" id="hoverimg">
+  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>
+  </div>
+  <div class="col-3" id="col_6_padding">
+    <div class="card bg-dark text-white" id="hoverimg">
+  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>
+  </div>
+   <div class="col-3" id="col_6_padding">
+    <div class="card bg-dark text-white" id="hoverimg">
+  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>
+  </div>
+        <div class="col-3" id="col_6_padding">
+    <div class="card bg-dark text-white" id="hoverimg">
   <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
     <h5 class="card-title">Card title</h5>
