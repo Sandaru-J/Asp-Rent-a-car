@@ -13,16 +13,17 @@
 
    
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-  <div class="carousel-inner">
+  <div class="carousel-inner" id="mainSlide">
     <div class="carousel-item active">
-      <img src="../Resources/pexels-francesco-ungaro-2325446.jpg" class="d-block w-100" alt="...">
+      <img src="../Resources/main (1).jpg" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
-      <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="d-block w-100" alt="...">
+    <div class="carousel-item active">
+      <img src="../Resources/main (2).jpg" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
-      <img src="../Resources/pexels-francesco-ungaro-2325446.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-item active">
+      <img src="../Resources/main (3).jpg" class="d-block w-100" alt="...">
     </div>
+
   </div>
   <button class="carousel-control-prev" type="button" data-target="#carouselExampleFade" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -38,32 +39,48 @@
     <br />
     <div class="row" id="card-padding">
   <div class="col-6">
-    <div class="card">
+    <div class="card" id="card_border_remove">
       <div class="card-body">
-        <h5 class="card-title">Special Vehicles</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-         
+        <h2>WELCOME TO <br />FABULOUS RENT-A-CAR</h2>
+        <h4>PREMIER CAR RENTAL SERVICES IN SRI LANKA</h4>
+          <br />
+        <p class="card-text" id="welcome">With over 30 years of experience in the industry, we strive to offer the highest levels of customer service and a highly personalised service to all our customers who are on the lookout for Sri Lanka car rental opportunities. With one of the largest and most modern and varied fleets in Sri Lanka, our service is backed by a networked front office, fully-fledged mechanical servicing and valet servicing onsite.</p>
+         <br /><br />
+          <button type="button" class="btn btn-light" id="button_with_border">MORE DETAILS</button>
       </div>
     </div>
   </div>
   <div class="col-6">
  
     <div class="row">
-  <div class="col-7">
-   <div class="card bg-dark text-white">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
-  <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
-  </div>
+  <div class="col-9">
+   <div class="card bg-dark text-white" id="img_second_row">
+  <img src="../Resources/pexels-jae-park-3764984.jpg" class="card-img" alt="...">
+
 </div>
   </div>
-  <div class="col-5">
+  <div class="col-3">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+        <p id="secondrow_thirdcolumn_line1">24/7</p>
+        <p id="secondrow_thirdcolumn_line2">PICKUP/DROP</p>
+        <p id="secondrow_thirdcolumn_line3">(Advanced Reservations)</p>
+
+          <hr />
+
+        <p id="secondrow_thirdcolumn_line1">GPS</p>
+        <p id="secondrow_thirdcolumn_line2">SAT NAV</p>
+        <p id="secondrow_thirdcolumn_line3">(Available on Request)</p>
+
+          <hr />
+
+
+        <p id="secondrow_thirdcolumn_line1">BIA</p>
+        <p id="secondrow_thirdcolumn_line2">AIRPORT LOCATION</p>
+        <p id="secondrow_thirdcolumn_line3">(BIA Colombo)</p><br />
+
+        <button type="button" class="btn btn-outline-dark" style="position:absolute;">VIEW RATES</button>
         
       </div>
     </div>
