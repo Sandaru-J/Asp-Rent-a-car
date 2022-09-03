@@ -167,7 +167,13 @@
     <Content Include="LIbs\Boostrap\js\bootstrap.bundle.min.js" />
     <Content Include="LIbs\Boostrap\js\bootstrap.js" />
     <Content Include="LIbs\Boostrap\js\bootstrap.min.js" />
+    <Content Include="Resources\main %281%29.jpg" />
+    <Content Include="Resources\main %282%29.jpg" />
+    <Content Include="Resources\main %283%29.jpg" />
+    <Content Include="Resources\main %284%29.jpg" />
+    <Content Include="Resources\main %285%29.jpg" />
     <Content Include="Resources\pexels-francesco-ungaro-2325446.jpg" />
+    <Content Include="Resources\pexels-jae-park-3764984.jpg" />
     <Content Include="Resources\pexels-jaime-reimer-2662116.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
