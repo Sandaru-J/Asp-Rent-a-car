@@ -97,20 +97,19 @@
 
     <!--3rd row-->
  <br>
- <div class="row" id="card-padding">
-  <div class="col-sm-6">
  <div class="row">
-  <div class="col-sm-6">
-    <div class="card">
+  <div class="col-3" id="col_6_padding">
+    <div class="card" id="thirdrow_firstcolumn_div">
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h4 class="card-title">SERVICES</h4>
+        <p class="card-text">Our services are tailor-made to meet any type of transportation service you require.</p>
+          <br />
+         <button type="button" class="btn btn-outline-light">MORE DETAILS</button>
       </div>
-    </div>
+     </div>
   </div>
- <div class="col-sm-6">
-    <div class="card bg-dark text-white">
+  <div class="col-3" id="col_6_padding">
+    <div class="card bg-dark text-white" id="hoverimg">
   <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
     <h5 class="card-title">Card title</h5>
@@ -119,12 +118,8 @@
   </div>
 </div>
   </div>
-</div>
-  </div>
-  <div class="col-sm-6">
- <div class="row">
-  <div class="col-sm-6">
-    <div class="card bg-dark text-white">
+   <div class="col-3" id="col_6_padding">
+    <div class="card bg-dark text-white" id="hoverimg">
   <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
     <h5 class="card-title">Card title</h5>
@@ -133,15 +128,13 @@
   </div>
 </div>
   </div>
- <div class="col-sm-6">
-    <div class="card bg-dark text-white">
+        <div class="col-3" id="col_6_padding">
+    <div class="card bg-dark text-white"  id="hoverimg">
   <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
     <p class="card-text">Last updated 3 mins ago</p>
-  </div>
-</div>
   </div>
 </div>
   </div>
@@ -266,7 +259,8 @@
 
     <script src<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
-   
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
+
+
     
 </asp:Content>

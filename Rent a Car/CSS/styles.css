@@ -47,6 +47,12 @@ img {
     margin-bottom: 0px;
 }
 
+#thirdrow_firstcolumn_div {
+    background-color: #2D3A4D;
+    color: white;
+    padding: 60px 50px 60px 50px
+}
+
 #card-padding {
     padding-left: 50px;
     padding-right: 50px;
