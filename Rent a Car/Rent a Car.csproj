@@ -167,6 +167,7 @@
     <Content Include="LIbs\Boostrap\js\bootstrap.bundle.min.js" />
     <Content Include="LIbs\Boostrap\js\bootstrap.js" />
     <Content Include="LIbs\Boostrap\js\bootstrap.min.js" />
+    <Content Include="Resources\4thline.jpg" />
     <Content Include="Resources\airport.jpg" />
     <Content Include="Resources\main %281%29.jpg" />
     <Content Include="Resources\main %282%29.jpg" />
