@@ -21,8 +21,9 @@ img {
     border: 1px solid #e5e5e5;
 }
 
-#img_second_row{
-    height: 400px;
+#img_second_row {
+    height: 450px;
+    border: none;
 }
 
 #secondrow_thirdcolumn_line1{
@@ -50,7 +51,15 @@ img {
 #thirdrow_firstcolumn_div {
     background-color: #2D3A4D;
     color: white;
-    padding: 60px 50px 60px 50px
+
+}
+
+#thirdrow_firstcolumn_innerdiv {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    transform: translate(-50%, -50%);
 }
 
 #card-padding {

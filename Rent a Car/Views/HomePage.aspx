@@ -47,6 +47,7 @@
   <div class="col-6">
     <div class="card" id="card_border_remove">
       <div class="card-body">
+          <br />
         <h2>WELCOME TO <br />FABULOUS RENT-A-CAR</h2>
         <h4>PREMIER CAR RENTAL SERVICES IN SRI LANKA</h4>
           <br />
@@ -99,42 +100,37 @@
  <br>
  <div class="row">
   <div class="col-3" id="col_6_padding">
-    <div class="card" id="thirdrow_firstcolumn_div">
-      <div class="card-body">
-        <h4 class="card-title">SERVICES</h4>
-        <p class="card-text">Our services are tailor-made to meet any type of transportation service you require.</p>
+    <div class="card" id="thirdrow_firstcolumn_div" style="height:450px;">
+      <div class="card-body" id="thirdrow_firstcolumn_innerdiv">
+        <h3 class="card-title">SERVICES</h3>
+        <p class="card-text" style="font-size:17px;">Our services are tailor-made to meet any type of transportation service you require.</p>
           <br />
          <button type="button" class="btn btn-outline-light">MORE DETAILS</button>
       </div>
      </div>
   </div>
   <div class="col-3" id="col_6_padding">
-    <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+    <div class="card bg-dark text-white" id="hoverimg" style="height:450px; border: none;">
+  <img src="../Resources/selfride.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+    <h4 class="card-title">SELF DRIVING</h4>
+
   </div>
 </div>
   </div>
    <div class="col-3" id="col_6_padding">
-    <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+    <div class="card bg-dark text-white" id="hoverimg" style="height:450px; border: none;">
+  <img src="../Resources/withdriver.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+     <h4 class="card-title">WITH DRIVER / TOURS</h4>
   </div>
 </div>
   </div>
         <div class="col-3" id="col_6_padding">
-    <div class="card bg-dark text-white"  id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+    <div class="card bg-dark text-white"  id="hoverimg" style="height:450px; border: none;">
+  <img src="../Resources/airport.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+    <h4 class="card-title">AIRPORT / CITY</h4>
   </div>
 </div>
   </div>
