@@ -140,20 +140,20 @@
     <br />
  <div class="row" id="card-padding">
   <div class="col-8">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Special Vehicles</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    
+        <div class="card bg-dark text-white" id="row4">
+        <img src="../Resources/4thline.jpg" class="card-img" alt="...">
          
       </div>
      </div>
-    </div>
+    
      <div class="col-4">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Special Vehicles</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-         
+    <div class="card" id="row4">
+      <div class="card-body" id="row4_column1_innerdiv">
+        <p class="card-text" id="weddings_and_events">Weddings <br />& Events</p>
+        <p class="card-text" style="font-size:18px;">With supporting text below as a natural lead-in to additional content.Style and class are what we promise for your special occasions. Choose from our extensive fleet of luxury vehicles and make your day a truly unforgettable one.</p>
+        <br />
+          <button type="button" class="btn btn-outline-dark">MORE DETAILS</button>
       </div>
      </div>
     </div>
