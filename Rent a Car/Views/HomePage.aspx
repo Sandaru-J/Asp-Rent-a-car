@@ -102,7 +102,7 @@
   <div class="col-3" id="col_6_padding">
     <div class="card" id="thirdrow_firstcolumn_div" style="height:450px;">
       <div class="card-body" id="thirdrow_firstcolumn_innerdiv">
-        <h3 class="card-title">SERVICES</h3>
+        <h2 class="card-title">SERVICES</h2>
         <p class="card-text" style="font-size:17px;">Our services are tailor-made to meet any type of transportation service you require.</p>
           <br />
          <button type="button" class="btn btn-outline-light">MORE DETAILS</button>
@@ -165,12 +165,11 @@
     <br />
     <div class="row" >
   <div class="col-6" id="col_6_padding">
-    <div class="card" id="special_vehicle_card">
-      <div class="card-body">
-        <h5 class="card-title">Special Vehicles</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <br /><br /><br /><br /><br />
-         <button type="button" class="btn btn-outline-light" id="btn_moreDetails">MORE DETAILS</button>
+    <div class="card" id="row5_column1">
+      <div class="card-body" id="row5_column1_innerdiv">
+        <h2 class="card-title">VEHICLE FLEET</h2>
+        <p class="card-text" style="font-size:17px;">We offer a wide range of options from economy to luxury. The fleet consists of cars, sports utility, and 4WD vehicles, vans and buses.</p>
+         <br /><button type="button" class="btn btn-outline-light">MORE DETAILS</button>
       </div>
     </div>
   </div>
@@ -178,22 +177,19 @@
  
     <div class="row">
   <div class="col-6" id="col_6_padding">
-   <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+   <div class="card bg-dark text-white" id="hoverimg" style="height:350px; border: none;">
+  <img src="../Resources/luxury.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+    <h4 class="card-title">LUXURY CARS</h4>
+
   </div>
 </div>
   </div>
   <div class="col-6" id="col_6_padding">
-    <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+    <div class="card bg-dark text-white" id="hoverimg" style="height:350px; border: none;">
+  <img src="../Resources/premium.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+    <h4 class="card-title">PREMIUM CARS</h4>
   </div>
 </div>
   </div>
@@ -209,53 +205,46 @@
  
     <div class="row">
   <div class="col-3" id="col_6_padding">
-   <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+   <div class="card bg-dark text-white" id="hoverimg"  style="height:350px; border: none;">
+  <img src="../Resources/general.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+   <h4 class="card-title">GENERAL CARS</h4>
   </div>
 </div>
   </div>
   <div class="col-3" id="col_6_padding">
-    <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+    <div class="card bg-dark text-white" id="hoverimg"  style="height:350px; border: none;">
+  <img src="../Resources/van.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+   <h4 class="card-title">BUSES & VANS</h4>
   </div>
 </div>
   </div>
    <div class="col-3" id="col_6_padding">
-    <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
-  <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
+    <div class="card bg-dark text-white" id="hoverimg"  style="height:350px; border: none;">
+  <img src="../Resources/4wd (2).jpg" class="card-img" alt="...">
+          <div class="card-img-overlay">
+  <h4 class="card-title">4WD</h4>
   </div>
 </div>
   </div>
         <div class="col-3" id="col_6_padding">
-    <div class="card bg-dark text-white" id="hoverimg">
-  <img src="../Resources/pexels-jaime-reimer-2662116.jpg" class="card-img" alt="...">
+    <div class="card bg-dark text-white" id="hoverimg"  style="height:350px; border: none;">
+  <img src="../Resources/classic.jpg" class="card-img" alt="...">
   <div class="card-img-overlay">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-    <p class="card-text">Last updated 3 mins ago</p>
-  </div>
-</div>
+    <h4 class="card-title">CLASSIC & VINTAGE</h4>
   </div>
 </div>
   </div>
 </div>
 
 
-    <script src<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+    <script src<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous">
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
+
 
 
     

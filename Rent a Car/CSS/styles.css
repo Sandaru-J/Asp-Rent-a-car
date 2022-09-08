@@ -81,6 +81,14 @@ img {
     font-weight: bold;
 }
 
+#row5_column1_innerdiv {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+}
+
 #card-padding {
     padding-left: 50px;
     padding-right: 50px;
@@ -95,13 +103,13 @@ img {
     cursor: pointer;
 }
 
-#special_vehicle_card {
+#row5_column1 {
     border: none;
     padding-left: 20px;
     padding-top:30px;
     background-color: #2D3A4D;
     color:white;
-    height:322px;
+    height:350px;
 }
 
 #btn_moreDetails
