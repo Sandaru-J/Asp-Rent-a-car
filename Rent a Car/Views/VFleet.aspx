@@ -5,6 +5,8 @@
 
     <div class="container">
 
+        <asp:Literal ID="myHtmlContent" runat="server"></asp:Literal>
+       
         <h3>Add Your Vehicle <span class="badge bg-secondary">Rent</span></h3>
         <!-- Content here -->
         <div class="row">
@@ -37,7 +39,7 @@
                     </div>
                 </div>
             </div>
-            <h5>Vehicle Details <span class="badge bg-secondary">Vehicle</span></h5>
+            <h5>Vehicle Details <span class="badge bg-secondary" >Vehicle</span></h5>
             <div class="row">
                 <div class="col">
                     <div class="col-md-9">

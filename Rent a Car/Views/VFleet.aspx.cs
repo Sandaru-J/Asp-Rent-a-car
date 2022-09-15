@@ -9,8 +9,14 @@ namespace Rent_a_Car.Views
 {
     public partial class VFleet : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
+        protected Literal GetMyHtmlContent()
         {
+            return myHtmlContent;
+        }
+
+        protected void Page_Load(object sender, EventArgs e, Literal myHtmlContent)
+        {
+            string text = System.IO.File.ReadAllText("test.html");
 
         }
     }
