@@ -5,6 +5,88 @@
 
     <div class="container">
 
+        ###################################################################################
+       <div class="row"> 
+           <div class="container text-center">
+  <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+   
+    <div class="col">
+      <div class="p-3 border bg-light">
+          <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="p-3 border bg-light"><div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div></div>
+    </div>
+    <div class="col">
+      <div class="p-3 border bg-light">
+          <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="p-3 border bg-light">
+          <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+      </div>
+    </div>
+       <div class="col">
+      <div class="p-3 border bg-light">
+          <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="p-3 border bg-light">
+          <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+       </div>
+
+############################################################################
+            
+      
         <h3>Add Your Vehicle <span class="badge bg-secondary">Rent</span></h3>
         <!-- Content here -->
         <div class="row">
