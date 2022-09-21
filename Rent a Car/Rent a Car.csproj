@@ -214,6 +214,7 @@
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Views\HomePage.aspx" />
+    <Content Include="Views\Rates.aspx" />
     <Content Include="Views\VFleet.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -268,6 +269,13 @@
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Rates.aspx.cs">
+      <DependentUpon>Rates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Rates.aspx.designer.cs">
+      <DependentUpon>Rates.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
