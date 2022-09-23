@@ -214,7 +214,9 @@
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Views\HomePage.aspx" />
-    <Content Include="Views\Rates.aspx" />
+    <Content Include="Views\Rates.aspx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Views\VFleet.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -273,9 +275,11 @@
     <Compile Include="Views\Rates.aspx.cs">
       <DependentUpon>Rates.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Views\Rates.aspx.designer.cs">
       <DependentUpon>Rates.aspx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Views\Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
