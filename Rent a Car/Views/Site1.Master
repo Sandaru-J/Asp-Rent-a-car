@@ -32,7 +32,7 @@
                         <a class="nav-link" href="VFleet.aspx">Vehicles</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Laboratorian.aspx">Rates</a>
+                        <a class="nav-link" href="Rates.aspx">Rates</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Services</a>
